@@ -25,3 +25,11 @@ C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\obj\Debug\net6.0\refint\Olif
 C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\obj\Debug\net6.0\OlifransMinimalApiVsCode.pdb
 C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\obj\Debug\net6.0\OlifransMinimalApiVsCode.genruntimeconfig.cache
 C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\obj\Debug\net6.0\ref\OlifransMinimalApiVsCode.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\Dapper.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ITI_Workspace_Francisco\OlifransMinimalApiVsCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
